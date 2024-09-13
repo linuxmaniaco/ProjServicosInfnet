@@ -24,5 +24,6 @@ public class Servicos {
     private String vendedor;
     @Column(name = "vendedor_id")
     private long idVendedor;
+    private String tiposervico;
 
 }
